@@ -40,8 +40,9 @@ nav{
     text-align: center;
 }
 .logo img {
-    height: 5rem;
-    width: 8rem;
+    /* height: 5rem; */
+    width: 10rem;
+    margin-top: 1.5rem;
     margin-left: 1rem;
 
 }
@@ -61,7 +62,7 @@ nav{
     margin: 0 0.7vw;
 }
 .nav-links li a:hover {
-    color: #61DAFB;
+    color: #fbf661;
 }
 .nav-links li {
     position: relative;
@@ -71,7 +72,7 @@ nav{
     display: block;
     height: 3px;
     width: 0%;
-    background-color: #61DAFB;
+    background-color: #e6fb61;
     position: absolute;
     transition: all ease-in-out 250ms;
     margin: 0 0 0 10%;
@@ -188,11 +189,11 @@ nav{
         opacity: 1;
     }
 
-    .home{
+    /* .home{
         flex-direction: column;
         width: 100%;
         height: ;
-    }
+    } */
 
     
     
